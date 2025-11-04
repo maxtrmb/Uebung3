@@ -36,7 +36,6 @@ public class P1_main {
 			
 	}
 		
-		
 		// TODO Auto-generated method stub
 }
 	
