@@ -6,7 +6,7 @@ public class H1_main {
 		
 		double guthaben=-100, monEingang=200;
 		
-		int rating=0;
+		int rating=-2;
 		
 		boolean warnhinweis = false, negativ;
 		
@@ -66,8 +66,8 @@ public class H1_main {
 			
 		}
 		
-		System.out.println("Guthaben beträgt " +guthaben);
-		System.out.println("Der monatliche Eingang beträgt " +monEingang);
+		System.out.println("Guthaben beträgt: " +guthaben);
+		System.out.println("Der monatliche Eingang beträgt: " +monEingang);
 		System.out.println("Rating = " +rating);
 		System.out.println("Negativ = " +negativ);
 		System.out.println("Warnhinweis = " +warnhinweis);
