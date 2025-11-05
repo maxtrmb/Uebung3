@@ -4,7 +4,7 @@ public class P3_main {
 
 	public static void main(String[] args) {
 		
-		int a=-28;
+		int a=-23;
 		
 		if(a<0) {
 			
@@ -15,11 +15,11 @@ public class P3_main {
 	 	System.out.println("Der Betrag von a ist " +a);
 		
 		
-		int b=4;
+		int b=6;
 		
 		System.out.println("Das Quadrat von b ist " +b*b);
 		
-		int c=6;
+		int c=7;
 		
 		if(c % 2 == 0) {
 			
@@ -32,11 +32,6 @@ public class P3_main {
 				System.out.println("c ist Ungerade");
 			}
 		
-		
-		
-		
-		
-			
 			
 		}
 		// TODO Auto-generated method stub

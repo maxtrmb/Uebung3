@@ -4,7 +4,7 @@ public class P2_main_1 {
 
 	public static void main(String[] args) {
 		
-		int a=50, b=50, c=100,d=4;
+		int a=11, b=11, c=13,d=4;
 		
 		d=0;
 		

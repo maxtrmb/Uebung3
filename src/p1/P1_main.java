@@ -4,7 +4,7 @@ public class P1_main {
 
 	public static void main(String[] args) {
 		
-		int wuerfel=6;
+		int wuerfel=4;
 		
 		if(wuerfel==1) {
 			
